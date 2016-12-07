@@ -1,0 +1,6 @@
+c:\users\citadmin\documents\visual studio 2015\Projects\SnakesAndLaders\SnakesAndLaders\bin\Debug\SnakesAndLaders.exe.config
+c:\users\citadmin\documents\visual studio 2015\Projects\SnakesAndLaders\SnakesAndLaders\bin\Debug\SnakesAndLaders.exe
+c:\users\citadmin\documents\visual studio 2015\Projects\SnakesAndLaders\SnakesAndLaders\bin\Debug\SnakesAndLaders.pdb
+c:\users\citadmin\documents\visual studio 2015\Projects\SnakesAndLaders\SnakesAndLaders\obj\Debug\SnakesAndLaders.csprojResolveAssemblyReference.cache
+c:\users\citadmin\documents\visual studio 2015\Projects\SnakesAndLaders\SnakesAndLaders\obj\Debug\SnakesAndLaders.exe
+c:\users\citadmin\documents\visual studio 2015\Projects\SnakesAndLaders\SnakesAndLaders\obj\Debug\SnakesAndLaders.pdb
